@@ -7,7 +7,7 @@ from datetime import datetime
 from collections import defaultdict
 from random import randint, choice
 
-BOT_TOKEN = "8449050503:AAH1kpDMHJ-CxVSutMlTu18SMXNnO5xkDu8"
+BOT_TOKEN = "8174577451:AAHOgpsEb20tsw4vgvPs332z5VNnVX1BMxA"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ADMIN ONLY SETUP
